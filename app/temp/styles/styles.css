@@ -465,6 +465,7 @@ img {
 }
 
 .large-hero__text-content {
+        color: dosentExist!!;
         position: absolute;
         top: 50%;
         -webkit-transform: translateY(-50%);
