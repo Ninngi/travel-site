@@ -42,7 +42,7 @@
             font-size: 2.9rem;
         }
 
-        @mixin atMedim {
+        @mixin atMedium {
             font-size: 4rem;
         }
 

@@ -515,20 +515,26 @@ img {
         color: #2f5572;
         font-size: 1.1rem;
         margin: 0;
-
-        @maxin atMedim {
-            font-size: 4rem;
-        }
-
-        @maxin atLarge {
-            font-size: 10rem;
-        }
     }
 
 @media (min-width: 530px) {
 
 .large-hero__subtitle {
             font-size: 2.9rem
+    }
+  }
+
+@media (min-width: 800px) {
+
+.large-hero__subtitle {
+            font-size: 4rem
+    }
+  }
+
+@media (min-width: 1200px) {
+
+.large-hero__subtitle {
+            font-size: 10rem
     }
   }
 
