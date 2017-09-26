@@ -21,12 +21,12 @@
             font-size: 2rem;
         }
 
-        @maxin atMedium {
-            font-size: 13.2rem;
+        @mixin atMedium {
+            font-size: 3.2rem;
         }
 
-        @maxin atLarge {
-            font-size: 53.2rem;
+        @mixin atLarge {
+            font-size: 4.8rem;
         }
 
        
@@ -40,6 +40,14 @@
 
         @mixin atSmall {
             font-size: 2.9rem;
+        }
+
+        @mixin atMedim {
+            font-size: 4rem;
+        }
+
+        @mixin atLarge {
+            font-size: 10rem;
         }
     }
 
