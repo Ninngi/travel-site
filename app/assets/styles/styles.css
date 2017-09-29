@@ -13,5 +13,6 @@
 @import "modules/_feature-item";
 @import "modules/_testimonial";
 @import "modules/_sprite";
+@import "modules/_site-footer";
 
   /* Remember that the order list is important, Top`s load always as first */
